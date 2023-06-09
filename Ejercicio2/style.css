@@ -1,0 +1,51 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+  max-width: 800px;
+  text-align: center;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  background-color: #4caf50;
+  color: white;
+}
+
+body {
+  margin-left: 10px;
+}
+.titulo {
+  text-align: center;
+  margin: 20px 0;
+}
+.mostrar {
+  background-color: #4caf50; /* Green */
+  display: block;
+  padding: 15px;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 15px 0;
+  border-radius: 10px;
+  margin-left: 10px;
+}
+.terminos1 {
+  width: 450px;
+  padding: 10px;
+  margin-top: 20px;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  border-radius: 10px;
+  margin-left: 10px;
+}
